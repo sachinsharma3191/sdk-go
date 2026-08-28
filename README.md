@@ -241,3 +241,4 @@ Note: Payloads encoded with `proto/binary` will not be readable in the Temporal 
 
 ## License
 MIT License, please see [LICENSE](LICENSE) for details.
+
